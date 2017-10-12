@@ -5,7 +5,6 @@ import android.content.Context;
 import android.net.Uri;
 import android.os.ParcelFileDescriptor;
 
-import com.vsoyou.sdk.ad.cache.FileCache;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedWriter;
@@ -646,19 +645,19 @@ public class FileHelper {
 	 * @param context
 	 * @param jsonStr
 	 */
-	public synchronized static void saveJsonToSdcard(Context context,
-                                                     String jsonStr, String fileName) {
-		LogUtil.i(TAG, "saveHomeAdJsonToSdcard.jsonStr-->" + jsonStr);
-		File homeAdJsonFile = new FileCache(context).getFile(fileName);
-		homeAdJsonFile.delete();
-		try {
-			homeAdJsonFile.createNewFile();
-			writeFile(homeAdJsonFile.getPath(), jsonStr);
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-
-	}
+//	public synchronized static void saveJsonToSdcard(Context context,
+//                                                     String jsonStr, String fileName) {
+//		LogUtil.i(TAG, "saveHomeAdJsonToSdcard.jsonStr-->" + jsonStr);
+//		File homeAdJsonFile = new FileCache(context).getFile(fileName);
+//		homeAdJsonFile.delete();
+//		try {
+//			homeAdJsonFile.createNewFile();
+//			writeFile(homeAdJsonFile.getPath(), jsonStr);
+//		} catch (IOException e) {
+//			e.printStackTrace();
+//		}
+//
+//	}
 
 	/**
 	 * 方法：打开指定文件，读取其数据，返回字符串对象

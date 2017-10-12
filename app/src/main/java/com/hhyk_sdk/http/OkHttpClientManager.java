@@ -137,13 +137,20 @@ private OkHttpClientManager(){
         for (Param param : params)
         {
             builder.add(param.key, param.value);
+
         }
+
         FormBody requestBody = builder.build();
         return new Request.Builder()
                 .url(url)
                 .post(requestBody)
+                .addHeader("Content-Type","application/x-www-form-urlencoded")
+
                 .build();
     }
+
+
+
 
     private void deliveryResult(final ResultCallback callback, final Request request)
     {
@@ -248,4 +255,11 @@ private OkHttpClientManager(){
         String value;
     }
 
+    /**
+     * 对外
+     */
+    public  void postAsyn(String url, final ResultCallback callback, Map<String, String> params)
+    {
+        getInstance()._postAsyn(url, callback, params);
+    }
 }

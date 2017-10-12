@@ -31,9 +31,9 @@ public class Constants {
 //	public static final String PUBLIC_KEY = "76cdec00fc496196b165558aa5e50904";
 	
 	
-	public static final String VSOYOU_APP_ID = "VSOYOU_APP_ID";
-	public static final String VSOYOU_APP_KEY = "VSOYOU_APP_KEY";
-	public static final String VSOYOU_CHANNELID = "VSOYOU_CHANNELID";
+	public static final String HHYK_APP_ID = "HHYK_APP_ID";
+	public static final String HHYK_APP_KEY = "HHYK_APP_KEY";
+	public static final String HHYK_CHANNELID = "HHYK_CHANNELID";
 	
 	public static final int NORMAL_INIT = 0;
 	public static final int PAY_INIT = 1;
