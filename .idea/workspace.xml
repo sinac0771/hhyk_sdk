@@ -10,91 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec64daed-4ae9-442c-a725-e78261f026a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-14-56-41-283.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-14-57-16-863.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-15-58-29-691.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-16-45-58-514.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-16-48-09-035.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-17-32-45-080.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-17-33-08-506.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-17-33-45-511.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-17-34-04-044.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-17-34-28-816.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-17-35-03-104.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-17-36-48-179.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-18-37-06-337.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-18-37-51-241.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-18-42-00-448.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-18-45-25-150.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-18-46-56-294.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-18-56-16-240.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-18-57-32-470.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-18-59-37-569.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-19-02-08-419.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-13-19-04-05-235.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libhhyk_sdk/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libhhyk_sdk/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libhhyk_sdk/libhhyk_sdk.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libhhyk_sdk/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/androidTest/java/sdk/hhyk/com/libhhyk_sdk/ExampleInstrumentedTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/view/DtDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/test/java/sdk/hhyk/com/libhhyk_sdk/ExampleUnitTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/view/DtDialog.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/Constants.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/Constants.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/Util/CommonUtil.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/Util/CommonUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/Util/ConfigUtil.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/Util/ConfigUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/Util/DESCoder.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/Util/DESCoder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/Util/FileHelper.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/Util/FileHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/Util/FileManager.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/Util/FileManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/Util/LocalStorage.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/Util/LocalStorage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/Util/LogUtil.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/Util/LogUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/Util/NImsiUtil.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/Util/NImsiUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/Util/NetUtil.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/Util/NetUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/Util/StringUtil.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/Util/StringUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/callback/ExitListener.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/callback/ExitListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/callback/HttpCallback.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/callback/HttpCallback.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/callback/InitCallback.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/callback/InitCallback.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/callback/PayCallback.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/callback/PayCallback.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/callback/PayListener.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/callback/PayListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/callback/ProgressView.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/callback/ProgressView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/control/PayManager.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/control/PayManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/entity/CmdCallbackRequestParam.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/entity/CmdCallbackRequestParam.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/entity/CmdEntity.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/entity/CmdEntity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/entity/CommonRequestParam.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/entity/CommonRequestParam.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/entity/DeviceInfo.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/entity/DeviceInfo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/entity/InitEntity.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/entity/InitEntity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/entity/OrderModel.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/entity/OrderModel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/entity/PayResult.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/entity/PayResult.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/entity/ProductEntity.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/entity/ProductEntity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/entity/ReplyEntity.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/entity/ReplyEntity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/entity/Result.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/entity/Result.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/entity/UrlEntity.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/entity/UrlEntity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/entity/WapEntity.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/entity/WapEntity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/http/OkHttpClientManager.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/http/OkHttpClientManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/http/ResponseParser.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/http/ResponseParser.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/view/DWebView.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/view/DWebView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/view/ProgressDialog.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/view/ProgressDialog.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hhyk_sdk/view/SucessDialog.java" afterPath="$PROJECT_DIR$/libhhyk_sdk/src/main/java/sdk/hhyk/com/libhhyk_sdk/view/SucessDialog.java" />
     </list>
     <ignored path="hhyk_sdk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -3967,7 +3883,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507867067400</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="sign key">
+      <created>1507892848828</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1507892848828</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
