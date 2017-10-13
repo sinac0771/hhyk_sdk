@@ -53,6 +53,10 @@ public class DtDialog extends Dialog {
 	private void init(Context context, int width, int height) {
 		setCancelable(true);
 		setCanceledOnTouchOutside(false);
+		WindowManager.LayoutParams layoutParams=new WindowManager.LayoutParams();
+		layoutParams.width=width;
+		layoutParams.height=height;
+		this.
 		getWindow().setBackgroundDrawableResource(android.R.color.transparent);
 		getWindow().getAttributes().windowAnimations = 0;
 		
@@ -72,10 +76,12 @@ public class DtDialog extends Dialog {
 			}
 		});
 		final DWebView dWebView=new DWebView(context,width,height );
-//		dWebView.loadUrl("https://www.baidu.com");
+
+String param="transdata="+orderModel.toString()+"&sign="+"25d13a5da"+"&signtype=RSA";
+		dWebView.postUrl("https://cp.halocash.hk/halocash/v1/createtrans",param.getBytes());
 
 
-		setContentView(dWebView);
+		setContentView(dWebView,layoutParams);
 
 	}
 
