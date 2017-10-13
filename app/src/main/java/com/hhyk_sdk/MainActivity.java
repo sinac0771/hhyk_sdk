@@ -15,7 +15,17 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mDialog=new DtDialog(this,new OrderModel());
+        OrderModel orderModel=new OrderModel();
+        orderModel.setSubject("1111");
+        orderModel.setMerchantid("111111");
+        orderModel.setOuttradeno("123455678877");
+        orderModel.setAmount("0.2");
+        orderModel.setCurrency("HKD");
+        orderModel.setNotifyurl("http://www.baodu.com");
+        orderModel.setCustomerid(123456+"");
+
+
+        mDialog=new DtDialog(this,orderModel);
         findViewById(R.id.tv_text).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

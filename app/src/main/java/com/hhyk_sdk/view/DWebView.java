@@ -53,7 +53,7 @@ public class DWebView extends WebView {
 
 
         setWebViewClient(new HelloWebViewClient());
-        loadUrl("https://www.baidu.com");
+
     }
 
 

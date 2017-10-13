@@ -36,6 +36,10 @@ private String merchantid;
         return merchantid;
     }
 
+    /**
+     *
+     * @param merchantid商户编号
+     */
     public void setMerchantid(String merchantid) {
         this.merchantid = merchantid;
     }
@@ -44,6 +48,10 @@ private String merchantid;
         return outtradeno;
     }
 
+    /**
+     *
+     * @param outtradeno 商户订单号
+     */
     public void setOuttradeno(String outtradeno) {
         this.outtradeno = outtradeno;
     }
@@ -52,6 +60,10 @@ private String merchantid;
         return subject;
     }
 
+    /**
+     *
+     * @param subject 商品名称
+     */
     public void setSubject(String subject) {
         this.subject = subject;
     }
@@ -60,6 +72,10 @@ private String merchantid;
         return amount;
     }
 
+    /**
+     *
+     * @param amount 支付金额
+     */
     public void setAmount(String amount) {
         this.amount = amount;
     }
@@ -68,6 +84,10 @@ private String merchantid;
         return currency;
     }
 
+    /**
+     *
+     * @param currency 货币类型
+     */
     public void setCurrency(String currency) {
         this.currency = currency;
     }
@@ -84,6 +104,10 @@ private String merchantid;
         return customerid;
     }
 
+    /**
+     *
+     * @param customerid 用户标识
+     */
     public void setCustomerid(String customerid) {
         this.customerid = customerid;
     }

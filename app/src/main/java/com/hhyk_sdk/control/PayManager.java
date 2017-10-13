@@ -26,6 +26,8 @@ import com.hhyk_sdk.entity.OrderModel;
 import com.hhyk_sdk.entity.PayResult;
 import com.hhyk_sdk.entity.UrlEntity;
 import com.hhyk_sdk.http.OkHttpClientManager;
+import com.hhyk_sdk.view.DWebView;
+import com.hhyk_sdk.view.DtDialog;
 import com.hhyk_sdk.view.ProgressDialog;
 
 import java.text.SimpleDateFormat;
@@ -349,18 +351,10 @@ public class PayManager implements InitCallback, PayCallback {
 		orderModel.setCurrency(currency);
 		orderModel.setNotifyurl("http://www.baodu.com");
 		orderModel.setCustomerid(123456+"");
-		okHttpClientManager.postAsyn("https://cp.halocash.hk/halocash/v1/createtrans", new OkHttpClientManager.ResultCallback() {
-			@Override
-			public void onError(Request request, Exception e) {
-
-			}
-
-			@Override
-			public void onResponse(Object response) {
-
-			}
-		},orderModel.toMap());
 //		init(Constants.PAY_INIT, this, new InitProgressView(context));
+		DtDialog dtDialog=new DtDialog(context,orderModel);
+
+
 	}
 
 
