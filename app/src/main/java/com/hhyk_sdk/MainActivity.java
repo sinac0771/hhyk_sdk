@@ -5,8 +5,15 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.hhyk_sdk.entity.OrderModel;
-import com.hhyk_sdk.view.DtDialog;
+import java.security.KeyFactory;
+import java.security.PrivateKey;
+import java.security.Signature;
+import java.security.spec.PKCS8EncodedKeySpec;
+
+import sdk.hhyk.com.libhhyk_sdk.Constants;
+import sdk.hhyk.com.libhhyk_sdk.entity.OrderModel;
+import sdk.hhyk.com.libhhyk_sdk.view.DtDialog;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -38,4 +45,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+
 }
